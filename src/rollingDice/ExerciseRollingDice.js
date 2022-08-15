@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import DisplayResult from './DisplayResult'
 import Options from './Options'
-import background from '/rollDice/bgGame.png'
+
 
 
 export default class ExerciseRollingDice extends Component {
