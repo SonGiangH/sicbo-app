@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/sicbo-app/static/css/main.61879ede.css",
-    "main.js": "/sicbo-app/static/js/main.2b0e856b.js",
+    "main.js": "/sicbo-app/static/js/main.4f77dfb1.js",
     "static/js/787.84aaa06b.chunk.js": "/sicbo-app/static/js/787.84aaa06b.chunk.js",
     "static/media/Pony.ttf": "/sicbo-app/static/media/Pony.99ddd1e5ee531d1eb8a2.ttf",
     "index.html": "/sicbo-app/index.html",
     "main.61879ede.css.map": "/sicbo-app/static/css/main.61879ede.css.map",
-    "main.2b0e856b.js.map": "/sicbo-app/static/js/main.2b0e856b.js.map",
+    "main.4f77dfb1.js.map": "/sicbo-app/static/js/main.4f77dfb1.js.map",
     "787.84aaa06b.chunk.js.map": "/sicbo-app/static/js/787.84aaa06b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.61879ede.css",
-    "static/js/main.2b0e856b.js"
+    "static/js/main.4f77dfb1.js"
   ]
 }
