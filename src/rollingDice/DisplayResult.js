@@ -15,7 +15,7 @@ class DisplayResult extends Component {
                 <div className="_count-win" style={{ color: 'green', fontSize: 60 }}>
                     <span style={{ color: 'black' }}>Winning time : </span> {this.props.winningTimes}
                 </div>
-                <div className="_count-playing" style={{ color: 'red', fontSize: 60 }}>
+                <div className="_count-playing" style={{ color: 'green', fontSize: 60 }}>
                     <span style={{ color: 'black' }}>Total playing time: </span>{this.props.totalPlaying}
                 </div>
                 <button className='btn btn-success' style={{ width: '30%', margin: 'auto' }}
