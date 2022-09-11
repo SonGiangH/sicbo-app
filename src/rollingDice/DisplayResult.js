@@ -10,7 +10,7 @@ class DisplayResult extends Component {
         return (
             <div className='d-flex flex-column'>
                 <div className="_option-player" style={{ color: 'red', fontSize: 60 }}>
-                    <span style={{ color: 'black' }}>Your Choice</span>: {this.props.result ? 'Tài' : 'Xỉu'}
+                    <span style={{ color: 'black' }}>Your Choice</span>: {this.props.result ? 'High' : 'Low'}
                 </div>
                 <div className="_count-win" style={{ color: 'green', fontSize: 60 }}>
                     <span style={{ color: 'black' }}>Winning time : </span> {this.props.winningTimes}

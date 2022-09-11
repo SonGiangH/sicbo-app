@@ -1,6 +1,6 @@
 
 const stateDefault = {
-    result: false, // true là tài (> 11), false là xỉu (< 11)
+    result: false, // true là high (> 11), false là Low (< 11)
     diceArray: [
         { "id": 1, "image": "./rollDice/1.png" },
         { "id": 1, "image": "./rollDice/2.png" },
