@@ -12,7 +12,7 @@ class Options extends Component {
                         onClick={() => {
                             this.props.bet(true)
                         }}>
-                        Tài
+                        High
                     </button>
                 </div>
                 <div >
@@ -24,7 +24,7 @@ class Options extends Component {
                         onClick={() => {
                             this.props.bet(false)
                         }}>
-                        Xỉu
+                        Low
                     </button>
                 </div>
             </div >
